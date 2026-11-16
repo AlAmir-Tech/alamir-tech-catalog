@@ -1,0 +1,35 @@
+{
+  "note": "بيانات تجريبية للفئات فقط. أضف المنتجات الفعلية والأسعار بعد مراجعتها واعتمادها.",
+  "products": [
+    {
+      "id": "gaming",
+      "category": "Gaming",
+      "name": "أجهزة ألعاب الفيديو"
+    },
+    {
+      "id": "laptops",
+      "category": "Laptops",
+      "name": "لابتوبات جديدة ومستعملة"
+    },
+    {
+      "id": "accessories",
+      "category": "Accessories",
+      "name": "ملحقات اللابتوب"
+    },
+    {
+      "id": "networking",
+      "category": "Networking",
+      "name": "راوترات وكابلات ومعدات شبكات"
+    },
+    {
+      "id": "surveillance",
+      "category": "Surveillance",
+      "name": "كاميرات المراقبة وملحقاتها"
+    },
+    {
+      "id": "digital",
+      "category": "Digital Services",
+      "name": "الخدمات الرقمية"
+    }
+  ]
+}
