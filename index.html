@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="كتالوج الأمير تك للمنتجات الإلكترونية وخدمات التقنية.">
+  <meta name="theme-color" content="#101d3a">
+  <title>الأمير تك | كتالوج المنتجات</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="#" aria-label="الأمير تك - الرئيسية">
+      <span class="brand-mark">A</span>
+      <span><strong>الأمير تك</strong><small>AL AMIR TECH</small></span>
+    </a>
+    <nav class="desktop-nav" aria-label="التنقل الرئيسي">
+      <a href="#catalog">الكتالوج</a><a href="#about">من نحن</a><a href="#contact">تواصل معنا</a>
+    </nav>
+    <a class="header-contact" href="https://wa.me/963989815272" target="_blank" rel="noopener">تواصل عبر واتساب</a>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-copy">
+        <span class="eyebrow">وجهتك للتكنولوجيا في سوريا</span>
+        <h1>كل احتياجاتك التقنية<br><em>في مكان واحد</em></h1>
+        <p>اكتشف منتجات الأمير تك من أجهزة الألعاب واللابتوبات إلى الشبكات وكاميرات المراقبة. البيع بالجملة والمفرق مع الشحن إلى جميع المحافظات السورية.</p>
+        <a class="primary-btn" href="#catalog">استكشف المنتجات <span>←</span></a>
+      </div>
+      <div class="hero-art" aria-hidden="true"><div class="orbit orbit-one"></div><div class="orbit orbit-two"></div><div class="tech-chip">TECH<br><b>01</b></div><div class="hero-caption">AL AMIR TECH</div></div>
+    </section>
+
+    <section class="trust-strip" aria-label="مميزات الأمير تك">
+      <div><b>جملة ومفرق</b><span>خيارات تناسب احتياجك</span></div>
+      <div><b>كل المحافظات</b><span>الشحن متاح إلى جميع سوريا</span></div>
+      <div><b>تواصل مباشر</b><span>استفسر عن السعر والتوفر</span></div>
+    </section>
+
+    <section class="catalog-section" id="catalog">
+      <div class="section-heading">
+        <div><span class="eyebrow">اكتشف تشكيلتنا</span><h2>كتالوج المنتجات</h2><p>اختر القسم وابحث عن المنتج الذي تحتاجه.</p></div>
+        <div class="audience-switch" role="group" aria-label="نوع الشراء">
+          <button class="active" data-audience="retail">المفرق</button>
+          <button data-audience="wholesale">الجملة</button>
+        </div>
+      </div>
+      <div class="catalog-tools">
+        <input id="search" type="search" placeholder="ابحث عن منتج..." aria-label="ابحث عن منتج">
+        <div id="categories" class="category-list" aria-label="تصنيفات المنتجات"></div>
+      </div>
+      <div id="product-grid" class="product-grid" aria-live="polite"></div>
+      <p class="catalog-note">الأسعار والكميات غير معروضة حالياً. يرجى التواصل معنا لتأكيد السعر والتوفر وشروط الجملة.</p>
+    </section>
+
+    <section class="about-section" id="about">
+      <div><span class="eyebrow">من نحن</span><h2>الأمير تك</h2></div>
+      <p>شركة متخصصة في استيراد وبيع المنتجات الإلكترونية والخدمات الرقمية، تشمل أجهزة الألعاب واللابتوبات وملحقاتها، ومعدات الشبكات والإنترنت، وكاميرات المراقبة وملحقاتها.</p>
+    </section>
+  </main>
+
+  <footer id="contact">
+    <div><strong>الأمير تك | AL AMIR TECH</strong><p>دمشق – البَحصة – مقابل فرن مرحبا</p><p>هاتف: <a href="tel:0989815272">0989815272</a></p></div>
+    <a class="primary-btn" href="https://wa.me/963989815272" target="_blank" rel="noopener">راسلنا على واتساب</a>
+    <small>© <span id="year"></span> الأمير تك. جميع الحقوق محفوظة.</small>
+  </footer>
+  <script src="script.js"></script>
+</body>
+</html>
