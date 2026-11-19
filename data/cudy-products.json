@@ -1,0 +1,112 @@
+[
+  {
+    "id": "cudy-wr300s",
+    "name": "Cudy WR300S",
+    "brand": "Cudy",
+    "category": "routers",
+    "categoryName": "راوترات",
+    "price": 12.88,
+    "currency": "USD",
+    "icon": "📶",
+    "imageNote": "صورة المنتج غير متوفرة حالياً"
+  },
+  {
+    "id": "cudy-wr1200-v21",
+    "name": "Cudy WR1200 V2.1",
+    "brand": "Cudy",
+    "category": "routers",
+    "categoryName": "راوترات",
+    "price": 17.36,
+    "currency": "USD",
+    "icon": "📶",
+    "imageNote": "صورة المنتج غير متوفرة حالياً"
+  },
+  {
+    "id": "cudy-m1200-1pack-v10",
+    "name": "Cudy M1200 (1-Pack) V1.0",
+    "brand": "Cudy",
+    "category": "mesh",
+    "categoryName": "Mesh Wi-Fi",
+    "price": 22.4,
+    "currency": "USD",
+    "icon": "📡",
+    "imageNote": "صورة المنتج غير متوفرة حالياً"
+  },
+  {
+    "id": "cudy-wr3000",
+    "name": "Cudy WR3000",
+    "brand": "Cudy",
+    "category": "routers",
+    "categoryName": "راوترات Wi-Fi 6",
+    "price": 31.36,
+    "currency": "USD",
+    "icon": "📶",
+    "imageNote": "صورة المنتج غير متوفرة حالياً"
+  },
+  {
+    "id": "cudy-wr3000s",
+    "name": "Cudy WR3000S",
+    "brand": "Cudy",
+    "category": "routers",
+    "categoryName": "راوترات Wi-Fi 6",
+    "price": 42.56,
+    "currency": "USD",
+    "icon": "📶",
+    "imageNote": "صورة المنتج غير متوفرة حالياً"
+  },
+  {
+    "id": "cudy-wr3000p",
+    "name": "Cudy WR3000P",
+    "brand": "Cudy",
+    "category": "routers",
+    "categoryName": "راوترات Wi-Fi 6",
+    "price": 61.6,
+    "currency": "USD",
+    "icon": "📶",
+    "imageNote": "صورة المنتج غير متوفرة حالياً"
+  },
+  {
+    "id": "cudy-re1200",
+    "name": "Cudy RE1200 AC1200 Wi-Fi Mesh Repeater",
+    "brand": "Cudy",
+    "category": "repeaters",
+    "categoryName": "مقويات الإشارة وMesh",
+    "price": 20.16,
+    "currency": "USD",
+    "icon": "📡",
+    "imageNote": "صورة المنتج غير متوفرة حالياً"
+  },
+  {
+    "id": "cudy-re1200-outdoor",
+    "name": "Cudy RE1200 Outdoor",
+    "brand": "Cudy",
+    "category": "repeaters",
+    "categoryName": "مقويات إشارة خارجية",
+    "price": 47.04,
+    "currency": "USD",
+    "icon": "📡",
+    "imageNote": "صورة المنتج غير متوفرة حالياً"
+  },
+  {
+    "id": "cudy-fs108d-v40",
+    "name": "Cudy FS108D V4.0",
+    "brand": "Cudy",
+    "category": "switches",
+    "categoryName": "Switches",
+    "price": 7.28,
+    "currency": "USD",
+    "icon": "🔌",
+    "imageNote": "صورة المنتج غير متوفرة حالياً"
+  },
+  {
+    "id": "cudy-gs108d-v50",
+    "name": "Cudy GS108D V5.0",
+    "brand": "Cudy",
+    "category": "switches",
+    "categoryName": "Gigabit Switches",
+    "price": 11.2,
+    "currency": "USD",
+    "icon": "🔌",
+    "imageNote": "صورة المنتج غير متوفرة حالياً"
+  }
+]
